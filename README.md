@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0643-maximum-average-subarray-i](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Billasrujan/Leetcode_Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
