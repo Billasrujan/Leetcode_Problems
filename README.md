@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Billasrujan/Leetcode_Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Billasrujan/Leetcode_Problems/tree/master/0898-transpose-matrix) |
